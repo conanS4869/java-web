@@ -17,6 +17,7 @@ import java.util.List;
 import java.util.UUID;
 
 public class TableDataGeneratorTest {
+
     private TableDataGenerator generator;
     private long no;
 
